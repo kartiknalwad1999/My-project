@@ -1,0 +1,37 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/identity/{everything}",
+      "UpstreamPathTemplate": "/identity/{everything}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/EmployeeServiceDepartmentService/{everything}",
+      "UpstreamPathTemplate": "/EmployeeServiceDepartmentService/{everything}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/AttendancePayrollService/{everything}",
+      "UpstreamPathTemplate": "/AttendancePayrollService/{everything}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5034
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5000"
+  }
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AttendancePayrollService/AttendancePayrollService.csproj" Id="3676ba2b-2f5a-4359-b1cd-1a96b7ff2feb" />
+  <Project Path="EmployeeServiceDepartmentService/EmployeeServiceDepartmentService.csproj" Id="d18fc7db-5330-4a6f-a3ea-84164b5773b4" />
+  <Project Path="Gateway/Gateway.csproj" />
+  <Project Path="IdentityService/IdentityService.csproj" />
+</Solution>

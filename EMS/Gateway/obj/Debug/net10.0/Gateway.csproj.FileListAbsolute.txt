@@ -1,0 +1,181 @@
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\appsettings.Development.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\appsettings.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\ocelot.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Gateway.staticwebassets.endpoints.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Gateway.exe
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Gateway.deps.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Gateway.runtimeconfig.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Gateway.pdb
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\FluentValidation.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\IPAddressRange.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\bin\Debug\net10.0\Ocelot.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.csproj.AssemblyReference.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfoInputs.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfo.cs
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.csproj.CoreCompileInputs.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\scopedcss\bundle\Gateway.styles.css
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\staticwebassets.build.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\staticwebassets.development.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\swae.build.ex.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.csproj.Up2Date
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\refint\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.pdb
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\Gateway.genruntimeconfig.cache
+D:\.NET PROJECT MICROSERVICES\Solution1\Gateway\obj\Debug\net10.0\ref\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\appsettings.Development.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\appsettings.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\ocelot.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Gateway.staticwebassets.endpoints.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Gateway.exe
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Gateway.deps.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Gateway.runtimeconfig.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Gateway.pdb
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\FluentValidation.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\IPAddressRange.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Ocelot.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.AssemblyReference.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfoInputs.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfo.cs
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.CoreCompileInputs.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\scopedcss\bundle\Gateway.styles.css
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\staticwebassets.development.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\swae.build.ex.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.Up2Date
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\refint\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.pdb
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\Gateway.genruntimeconfig.cache
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\obj\Debug\net10.0\ref\Gateway.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET PROJECT MICROSERVICES\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\appsettings.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\ocelot.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Gateway.staticwebassets.endpoints.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Gateway.exe
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Gateway.deps.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Gateway.runtimeconfig.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Gateway.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Gateway.pdb
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\IPAddressRange.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Ocelot.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfo.cs
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.sourcelink.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.Up2Date
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\refint\Gateway.dll
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.pdb
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\Gateway.genruntimeconfig.cache
+C:\Users\kartik\source\repos\EmployeeManagementSystem\EMS\Gateway\obj\Debug\net10.0\ref\Gateway.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\appsettings.Development.json
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\appsettings.json
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\ocelot.json
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Gateway.staticwebassets.endpoints.json
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Gateway.exe
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Gateway.deps.json
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Gateway.runtimeconfig.json
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Gateway.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Gateway.pdb
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\FluentValidation.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\IPAddressRange.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Ocelot.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\freshclone\EMS\Gateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.AssemblyReference.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfoInputs.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.AssemblyInfo.cs
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.CoreCompileInputs.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\scopedcss\bundle\Gateway.styles.css
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\staticwebassets.development.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\swae.build.ex.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.csproj.Up2Date
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.dll
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\refint\Gateway.dll
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.pdb
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\Gateway.genruntimeconfig.cache
+D:\freshclone\EMS\Gateway\obj\Debug\net10.0\ref\Gateway.dll
