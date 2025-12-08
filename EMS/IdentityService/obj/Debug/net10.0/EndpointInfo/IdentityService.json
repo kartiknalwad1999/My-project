@@ -130,10 +130,6 @@
             "type": "string",
             "nullable": true
           },
-          "employeeId": {
-            "type": "integer",
-            "format": "int32"
-          },
           "createdAt": {
             "type": "string",
             "format": "date-time"

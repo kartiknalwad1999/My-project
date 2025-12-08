@@ -11,8 +11,8 @@
       ]
     },
     {
-      "DownstreamPathTemplate": "/api/EmpDepartmentService/{everything}",
-      "UpstreamPathTemplate": "/EmpDepartmentService/{everything}",
+      "DownstreamPathTemplate": "/api/EmployeeServiceDepartmentService/{everything}",
+      "UpstreamPathTemplate": "/EmployeeServiceDepartmentService/{everything}",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",

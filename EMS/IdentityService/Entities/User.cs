@@ -25,11 +25,7 @@ namespace IdentityService.Entities
         [Column("RoleId")]
         public Guid RoleId { get; set; }
 
-        // Navigation property (optional, if you want EF to handle relationships)
-        public Role Role { get; set; }
-
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // auto-increment from 50001
-        [Column("EmployeeNumber")]
-        public int EmployeeNumber { get; set; }
+        [Column("EmployeeId")]
+        public Guid? EmployeeId { get; set; }   // optional FK     
     }
 }
