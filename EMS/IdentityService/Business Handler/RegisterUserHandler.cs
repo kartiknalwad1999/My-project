@@ -84,7 +84,7 @@ namespace IdentityService.Business_Handler
                 {
                     UserId = user.UserId,
                     Username = user.Username,
-                    EmployeeId = user.EmployeeId,
+                  //  EmployeeId = user.EmployeeId,
                     CreatedAt = user.CreatedAt,
                     Role = role.Name,
                     Success = true,
