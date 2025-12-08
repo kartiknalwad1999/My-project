@@ -6,4 +6,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Business Handler\" />
+    <Folder Include="domains\" />
+    <Folder Include="Entity\" />
+    <Folder Include="data access\" />
+    <Folder Include="interfaces\" />
+    <Folder Include="logger\" />
+    <Folder Include="repos\" />
+  </ItemGroup>
+
 </Project>

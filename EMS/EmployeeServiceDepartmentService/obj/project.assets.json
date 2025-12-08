@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\freshclone\\EMS\\EmployeeServiceDepartmentService\\EmployeeServiceDepartmentService.csproj",
+      "projectUniqueName": "D:\\My-project\\My-project\\EMS\\EmployeeServiceDepartmentService\\EmployeeServiceDepartmentService.csproj",
       "projectName": "EmployeeServiceDepartmentService",
-      "projectPath": "D:\\freshclone\\EMS\\EmployeeServiceDepartmentService\\EmployeeServiceDepartmentService.csproj",
+      "projectPath": "D:\\My-project\\My-project\\EMS\\EmployeeServiceDepartmentService\\EmployeeServiceDepartmentService.csproj",
       "packagesPath": "C:\\Users\\kartik\\.nuget\\packages\\",
-      "outputPath": "D:\\freshclone\\EMS\\EmployeeServiceDepartmentService\\obj\\",
+      "outputPath": "D:\\My-project\\My-project\\EMS\\EmployeeServiceDepartmentService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
