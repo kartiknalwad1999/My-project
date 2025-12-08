@@ -3,15 +3,19 @@
     "Name": "New Profile",
     "Projects": [
       {
+        "Path": "AttendancePayrollService\\AttendancePayrollService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmployeeServiceDepartmentService\\EmployeeServiceDepartmentService.csproj",
+        "Action": "Start"
+      },
+      {
         "Path": "Gateway\\Gateway.csproj",
         "Action": "Start"
       },
       {
         "Path": "IdentityService\\IdentityService.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "EmployeeServiceDepartmentService\\EmployeeServiceDepartmentService.csproj",
         "Action": "Start"
       }
     ]
