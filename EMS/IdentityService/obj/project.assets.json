@@ -3995,11 +3995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\freshclone\\EMS\\IdentityService\\IdentityService.csproj",
+      "projectUniqueName": "D:\\My-project\\My-project\\EMS\\IdentityService\\IdentityService.csproj",
       "projectName": "IdentityService",
-      "projectPath": "D:\\freshclone\\EMS\\IdentityService\\IdentityService.csproj",
+      "projectPath": "D:\\My-project\\My-project\\EMS\\IdentityService\\IdentityService.csproj",
       "packagesPath": "C:\\Users\\kartik\\.nuget\\packages\\",
-      "outputPath": "D:\\freshclone\\EMS\\IdentityService\\obj\\",
+      "outputPath": "D:\\My-project\\My-project\\EMS\\IdentityService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

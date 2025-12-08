@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mpz/bKBlBZo=",
+  "dgSpecHash": "5YefDdFyT2Y=",
   "success": true,
-  "projectFilePath": "D:\\freshclone\\EMS\\IdentityService\\IdentityService.csproj",
+  "projectFilePath": "D:\\My-project\\My-project\\EMS\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kartik\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\kartik\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
