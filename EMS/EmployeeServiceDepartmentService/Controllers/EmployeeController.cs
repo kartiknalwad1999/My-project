@@ -45,6 +45,25 @@ namespace EmployeeServiceDepartmentService.Controllers
                 return StatusCode(500, new { Message = "Internal server error occurred." });
             }
         }
+        [HttpPatch("update-hiredate")]
+        public async Task<IActionResult> UpdateHireDate([FromBody] EmployeeUpdateRequestDto request)
+        {
+            if (request == null)
+            {
+                return BadRequest("Invalid request payload.");
+            }
+
+            _logger.LogInformation("Received request to update HireDate for employee {EmployeeNumber}", request.EmployeeNumber);
+
+            var response = await _mediator.Send(request);
+
+            if (!response.Success)
+            {
+                return NotFound(response);
+            }
+
+            return Ok(response);
+        }
     }
 
 }

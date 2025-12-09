@@ -60,6 +60,24 @@ namespace EmployeeServiceDepartmentService.repos
         public IQueryable<Employees> GetEmployees()
         {
             return _context.Set<Employees>();
-        }      
+        }
+        public async Task UpdateHireDateAsync(Employees employee)
+        {
+            if (employee == null)
+                throw new ArgumentNullException(nameof(employee));
+
+            // Use LINQ to find the employee by EmployeeNumber
+            var existingEmployee = await _context.Employees
+                .FirstOrDefaultAsync(e => e.EmployeeNumber == employee.EmployeeNumber);
+
+            if (existingEmployee == null)
+                throw new InvalidOperationException("Employee not found.");
+
+            // Update only the HireDate field
+            existingEmployee.HireDate = employee.HireDate;
+
+            // Save changes
+            await _context.SaveChangesAsync();
+        }
     }
 }

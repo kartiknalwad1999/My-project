@@ -1,0 +1,37 @@
+2025-12-09 10:19:23.737 +05:30 [INF] Now listening on: http://localhost:5042
+2025-12-09 10:19:33.116 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-09 10:19:37.710 +05:30 [INF] Hosting environment: Development
+2025-12-09 10:19:37.716 +05:30 [INF] Content root path: D:\My-project\My-project\EMS\EmployeeServiceDepartmentService
+2025-12-09 10:20:00.611 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5042/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-09 10:20:01.788 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5042/_vs/browserLink - null null
+2025-12-09 10:20:03.109 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5042/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 2504.9214ms
+2025-12-09 10:20:03.751 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5042/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1965.1599ms
+2025-12-09 10:20:05.258 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5042/swagger/v1/swagger.json - null null
+2025-12-09 10:20:05.321 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5042/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 62.3799ms
+2025-12-09 10:20:57.647 +05:30 [INF] Request starting HTTP/1.1 PATCH http://localhost:5042/api/Employee/update-hiredate - application/json 57
+2025-12-09 10:20:58.000 +05:30 [WRN] Failed to determine the https port for redirect.
+2025-12-09 10:20:59.457 +05:30 [INF] Executing endpoint 'EmployeeServiceDepartmentService.Controllers.EmployeeController.UpdateHireDate (EmployeeServiceDepartmentService)'
+2025-12-09 10:21:02.479 +05:30 [INF] Route matched with {action = "UpdateHireDate", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateHireDate(EmployeeServiceDepartmentService.domains.EmployeeUpdateRequestDto) on controller EmployeeServiceDepartmentService.Controllers.EmployeeController (EmployeeServiceDepartmentService).
+2025-12-09 10:21:04.224 +05:30 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-09 10:21:04.808 +05:30 [INF] Received request to update HireDate for employee 50002
+2025-12-09 10:21:20.120 +05:30 [WRN] No store type was specified for the decimal property 'BaseSalary' on entity type 'JobContracts'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-09 10:21:26.197 +05:30 [INF] Starting update of HireDate for employee 50002
+2025-12-09 10:21:38.231 +05:30 [INF] Executed DbCommand (700ms) [Parameters=[@request_EmployeeNumber='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeId], [e].[Email], [e].[EmployeeNumber], [e].[FirstName], [e].[HireDate], [e].[LastName], [e].[Phone], [e].[Status]
+FROM [Employees] AS [e]
+WHERE [e].[EmployeeNumber] = @request_EmployeeNumber
+2025-12-09 10:22:09.497 +05:30 [INF] Executed DbCommand (53ms) [Parameters=[@employee_EmployeeNumber='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeId], [e].[Email], [e].[EmployeeNumber], [e].[FirstName], [e].[HireDate], [e].[LastName], [e].[Phone], [e].[Status]
+FROM [Employees] AS [e]
+WHERE [e].[EmployeeNumber] = @employee_EmployeeNumber
+2025-12-09 10:22:09.917 +05:30 [INF] Executed DbCommand (15ms) [Parameters=[@p1='?' (DbType = Guid), @p0='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employees] SET [HireDate] = @p0
+OUTPUT 1
+WHERE [EmployeeId] = @p1;
+2025-12-09 10:22:12.784 +05:30 [INF] Employee "d39f43be-a7a6-4d30-acb5-01772d76aa32" HireDate updated to "2025-12-07T00:00:00.0000000"
+2025-12-09 10:22:35.764 +05:30 [INF] Executing OkObjectResult, writing value of type 'EmployeeServiceDepartmentService.domains.EmployeeUpdateResponseDto'.
+2025-12-09 10:22:53.100 +05:30 [INF] Executed action EmployeeServiceDepartmentService.Controllers.EmployeeController.UpdateHireDate (EmployeeServiceDepartmentService) in 108908.8513ms
+2025-12-09 10:22:55.864 +05:30 [INF] Executed endpoint 'EmployeeServiceDepartmentService.Controllers.EmployeeController.UpdateHireDate (EmployeeServiceDepartmentService)'
+2025-12-09 10:22:56.170 +05:30 [INF] Request finished HTTP/1.1 PATCH http://localhost:5042/api/Employee/update-hiredate - 200 null application/json; charset=utf-8 118523.0598ms
