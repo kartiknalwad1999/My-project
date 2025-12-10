@@ -17,6 +17,6 @@ namespace EmployeeServiceDepartmentService.interfaces
         Task DeleteAsync(TEntity entity);
 
         IQueryable<Employees> GetEmployees();
-       
+        Task UpdateHireDateAsync(Employees employee);
     }
 }

@@ -10,6 +10,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 //builder.AddServiceDefaults();
 
+// Add CORS services
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngular",
+        policy => policy.WithOrigins("http://localhost:4200") // Angular dev server
+                        .AllowAnyHeader()
+                        .AllowAnyMethod());
+});
+
 // Add services
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -32,6 +41,9 @@ builder.Services.AddMediatR(cfg =>
     ));
 
 var app = builder.Build();
+
+// Use CORS before MapControllers
+app.UseCors("AllowAngular");
 
 //app.MapDefaultEndpoints();
 
